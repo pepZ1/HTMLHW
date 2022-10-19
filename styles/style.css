@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(204, 191, 191);
+    background-attachment: fixed;
+    background-position: top center;
+    text-align: center;
+    align-content: center;
+}
+.pic {
+    width: 300px;
+}
